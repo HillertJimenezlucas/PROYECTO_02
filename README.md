@@ -6,10 +6,10 @@ Lucas Hillert Jiménez 1ºASIR "A"
 
 >Con enunciados que se resuelvan con métodos find.().
 * También crearemos una carpeta **"doc"** donde se encontrará un pdf con la explicación de los siguientes puntos
->Instalación Visual Studio Code
+>Instalación Visual Studio Code.
 
->Instalación MongoDB
+>Instalación MongoDB.
 
->Primeros comandos en Mongo Shell
+>Primeros comandos en Mongo Shell.
 
->Explicación métodos usados
+>Explicación métodos usados.
