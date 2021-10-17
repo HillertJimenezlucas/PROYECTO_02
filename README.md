@@ -1,5 +1,5 @@
 Lucas Hillert Jiménez 1ºASIR "A"
-#**Primer Proyecto usando MongoDB y Visual Studio Code**
+# **Primer Proyecto usando MongoDB y Visual Studio Code**
 *En este proyecto veremos los siguientes puntos*
 * Crearemos una carpeta **"src"** donde crearemos archivos con extensión js:
 >Con métodos para insertar documentos en colecciones.
